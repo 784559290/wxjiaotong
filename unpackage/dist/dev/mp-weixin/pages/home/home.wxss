@@ -1,0 +1,8 @@
+
+.swiper_home{
+}
+.bg-gradual-back{
+	background-color: #333333;
+	color: #39B54A;
+}
+
